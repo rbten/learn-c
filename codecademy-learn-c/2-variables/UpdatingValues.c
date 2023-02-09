@@ -11,7 +11,7 @@ int main() {
   // Update the movie review score here
   movieVersionReview = 'c';
   // Update the ticket price here
-
+  ticketPrice = bookPrice;
 
   // No need to change below here
   printf("The book version has a review score of %c and costs $%.2f\n", bookVersionReview, bookPrice);
