@@ -8,6 +8,8 @@ int main() {
 
   // Cast here
   targetChar = (char)sourceInt;
+  targetChar = sourceDouble;
+
 
   // No need to change below here
   printf("source int %d, source double, %.2f, target %c\n", sourceInt, sourceDouble, targetChar);
