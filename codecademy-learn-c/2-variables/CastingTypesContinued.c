@@ -7,7 +7,7 @@ int main() {
   double sourceDouble = 55.67;
 
   // Cast here
-  targetChar = (char)sourceInt;
+  targetChar = sourceInt;
   targetChar = sourceDouble;
 
 
