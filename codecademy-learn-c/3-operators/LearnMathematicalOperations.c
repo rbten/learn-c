@@ -8,6 +8,7 @@ int main() {
   double totalSalesValue;
 
   // Make your changes here
+  booksSold+=200;
 
 
   // Output logic, no need to change this
