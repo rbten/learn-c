@@ -9,6 +9,8 @@ int main() {
 
   // Make your changes here
   booksSold+=200;
+  totalSalesValue = booksSold * bookCost;
+  totalSalesValue /= 2;
 
 
   // Output logic, no need to change this
