@@ -5,6 +5,8 @@ int main() {
   int m = 10;
   
   m--;
+  n++;
+
 
   printf("m = %d\n", m);
   printf("n = %d\n", n);
